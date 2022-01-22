@@ -1,4 +1,4 @@
-# CityBike
+# CitiBike
 ## Overview of Project
 This project was completed as part of a business proposal to bring a bike sharing program to Des Moines. The data used for this project is from a bike sharing company called CitiBike in New York City. First, the makeup of the CitiBike users was analyzed. Next, characteristics of the bike trips were analyzed. The results are intended to be used to inform potential investors of what a bike sharing program in Des Moines might look like. The visualizations of these analyses can be found at the following link: [CitiBike Visualizations](https://public.tableau.com/shared/J4BMFH26Y?:display_count=n&:origin=viz_share_link)
 
