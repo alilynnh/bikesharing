@@ -14,7 +14,7 @@ The majority of the users of CitiBike identify as male, followed by female, and 
 
 ### When do they use it? 
 **Trips by Weekday per Hour**  
-<img src="Resources/hourly.png" width="75%" height="75%">    
+<img src="Resources/hourly.png" width="50%" height="50%">    
 During the weekends, the bikes are more frequently used during the middle of the day. However, during the work week, the bikes are more frequently used around 8am and 5-6pm. 
 
 **Trips by Gender (Weekday per Hour)**  
