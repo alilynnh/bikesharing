@@ -5,32 +5,33 @@ This project was completed as part of a business proposal to bring a bike sharin
 ## Results
 ### Who uses CitiBike?
 **User Types**   
-![](Resources/users.png)
+<img src="Resources/users.png" width="50%" height="50%">    
 The majority of the users of CitiBike are subscribers rather than short term customers. 
 
 **User Genders**  
-![](Resources/genders.png)  
+<img src="Resources/genders.png" width="50%" height="50%">    
 The majority of the users of CitiBike identify as male, followed by female, and then unknown.  
 
 ### When do they use it? 
-**Trips by Weekday per Hour**   
-![](Resources/hourly.png)  
+**Trips by Weekday per Hour**  
+<img src="Resources/hourly.png" width="75%" height="75%">    
 During the weekends, the bikes are more frequently used during the middle of the day. However, during the work week, the bikes are more frequently used around 8am and 5-6pm. 
 
 **Trips by Gender (Weekday per Hour)**  
 ![](Resources/hourly_gender.png)  
-Females and males follow the same overall as discussed above. However, it appears that users whose genders are unknown may use the bikes more on the weekend rather than during the week.   
+Females and males follow the same overall pattern as discussed above. However, it appears that users whose genders are unknown may use the bikes more on the weekend rather than during the week.   
 
-**User Trips by Gender by Weekday**
+**User Trips by Gender by Weekday**     
+<img src="Resources/daily_gender.png" width="75%" height="75%">
 ![](Resources/daily_gender.png)  
 From this chart, it appears that short term customers are more likely to use the bikes on the weekend, while subscribers are more likely to use them during the work week. 
 
 ### How long do they use it?  
-**Checkout Times for Users**
+**Checkout Times for Users**    
 ![](Resources/durations.png)  
 The majority of bike checkouts last less than one hour, but more frequently they only last 5-6 minutes. 
 
-**Checkout Times by Gender** 
+**Checkout Times by Gender**    
 ![](Resources/durations_gender.png)  
 Males and females seem to both follow a similar pattern where the most frequent length of checkout was 5-6 minutes. However, users whose gender is unknown seem to exhibit a flatter curve where the most frequent length was around 11 minutes.  
 
