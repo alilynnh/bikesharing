@@ -22,8 +22,7 @@ During the weekends, the bikes are more frequently used during the middle of the
 Females and males follow the same overall pattern as discussed above. However, it appears that users whose genders are unknown may use the bikes more on the weekend rather than during the week.   
 
 **User Trips by Gender by Weekday**     
-<img src="Resources/daily_gender.png" width="75%" height="75%">
-![](Resources/daily_gender.png)  
+<img src="Resources/daily_gender.png" width="75%" height="75%">     
 From this chart, it appears that short term customers are more likely to use the bikes on the weekend, while subscribers are more likely to use them during the work week. 
 
 ### How long do they use it?  
